@@ -1,5 +1,9 @@
 # QuBindR - Quantum Processor Binding Service
 
+> [!NOTE]  
+> **DeepWiki Available!** 
+> [![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/adrrf/qubindr)
+
 QuBindR is a service that optimally binds quantum circuits to available quantum processors (QPUs) the QuBind QPU selection framework. It uses a constraint-based approach to match quantum circuits with QPUs based on various criteria such as fidelity, workload, and cost.
 
 ## Features
